@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong> AWS Certified Cloud Practitioner (CLF-C02)</strong><br>
+  <strong> AWS Certified Cloud Practitioner (CLF-C02)</strong>
   <a href="https://www.credly.com/earner/earned/badge/df837ed4-9cd2-45be-9517-625986c3acb8">
     <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify CLF-C02"/>
   </a>
