@@ -137,12 +137,4 @@
   </a>
 </p>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tungle2709&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-
-*"Security is not a product, but a process."* - Bruce Schneier
-
-</div>
-
 </div>
