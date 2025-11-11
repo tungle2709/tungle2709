@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Tung Le
 
-### **Developer** | **Cloud Engineer** | Security **
+### **Developer** | **Cloud Engineer** | Security
 
 *Passionate about building secure, scalable solutions in the cloud*
 
