@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Tung Le
 
-### 🚀 **Developer** | **Cloud Engineer** | **Security Professional**
+### **Developer** | **Cloud Engineer** | **Security **
 
 *Passionate about building secure, scalable solutions in the cloud*
 
@@ -44,14 +44,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
+
 
 ### 🌐 Frontend & Backend
 <p align="center">
@@ -77,22 +72,6 @@
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
-### 🔧 AWS Services
-<p align="center">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="RDS"/>
-  <img src="https://img.shields.io/badge/VPC-FF4B4B?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="VPC"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CloudFormation-FF4B4B?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="IAM"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4B4B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch"/>
-  <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="Route53"/>
-</p>
-
 ### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -108,7 +87,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
 ---
