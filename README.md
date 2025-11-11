@@ -113,17 +113,6 @@
 
 ---
 
-## 📈 Focus Areas
-
-<div align="center">
-
-🌱 **Cloud-Native Development** | 🔒 **Security Best Practices** | 🏗️ **Infrastructure as Code** | 🔄 **DevSecOps**
-
-💡 **Serverless Architecture** | 🚀 **CI/CD Pipelines** | 📊 **Monitoring & Logging** | 🛡️ **Identity & Access Management**
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
