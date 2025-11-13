@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 
-### 🌐 Frontend & Backend
+###  Frontend & Backend
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -78,7 +78,7 @@
 ---
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:thtungle.dev@gmail.com">
