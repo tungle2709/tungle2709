@@ -8,7 +8,7 @@
 
 ---
 
-## 🏆 AWS Certifications
+##  AWS Certifications
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/df837ed4-9cd2-45be-9517-625986c3acb8">
@@ -38,7 +38,7 @@
 
 ##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
