@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/df837ed4-9cd2-45be-9517-625986c3acb8">
-    <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="160" height="160"/>
+    <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="150" height="150"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
-    <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="160" height="160"/>
+    <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
-    <img src="https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS AI Practitioner" width="160" height="160"/>
+    <img src="https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS AI Practitioner" width="150" height="150"/>
   </a>
 </p>
 
