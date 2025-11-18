@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
-    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_badge.3643f495b8bda9f6d1d8327b7d7c0ec4c7ee49c7.png" alt="AWS AI Practitioner" width="160" height="160"/>
+    <img src="https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS AI Practitioner" width="160" height="160"/>
   </a>
 </p>
 
