@@ -18,6 +18,10 @@
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="160" height="160"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
+    <img src="https://images.credly.com/size/150x150/images/61f56aa4-16b1-4d4e-a1d5-d1b1fc1e2771/image.png" alt="AWS AI Practitioner" width="160" height="160"/>
+  </a>
 </p>
 
 <p align="center">
@@ -31,6 +35,13 @@
   <strong> AWS Certified Solutions Architect Associate (SAA-C03)</strong><br>
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify SAA-C03"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong> AWS Certified AI Practitioner (AIF-C01)</strong><br>
+  <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
+    <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify AIF-C01"/>
   </a>
 </p>
 
