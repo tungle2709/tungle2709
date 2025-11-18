@@ -8,7 +8,7 @@
 
 ---
 
-##  AWS Certifications
+##   Certifications
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
