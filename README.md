@@ -11,6 +11,10 @@
 ##  AWS Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
+    <img src="./Badges/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="150" height="150"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/df837ed4-9cd2-45be-9517-625986c3acb8">
     <img src="./Badges/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150" height="150"/>
   </a>
@@ -18,9 +22,12 @@
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="./Badges/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <strong> AWS Certified AI Practitioner (AIF-C01)</strong><br>
   <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
-    <img src="./Badges/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="150" height="150"/>
+    <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify AIF-C01"/>
   </a>
 </p>
 
@@ -35,13 +42,6 @@
   <strong> AWS Certified Solutions Architect Associate (SAA-C03)</strong><br>
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify SAA-C03"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong> AWS Certified AI Practitioner (AIF-C01)</strong><br>
-  <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
-    <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify AIF-C01"/>
   </a>
 </p>
 
