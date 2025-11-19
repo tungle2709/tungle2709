@@ -14,11 +14,11 @@
   <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
     <img src="./Badges/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="150" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.credly.com/earner/earned/badge/df837ed4-9cd2-45be-9517-625986c3acb8">
     <img src="./Badges/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="./Badges/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
   </a>
@@ -95,6 +95,7 @@
   <a href="mailto:thtungle.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/tung-le-160508312/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
