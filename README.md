@@ -6,6 +6,9 @@
 
 *Passionate about building secure, scalable solutions in the cloud*
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-FF6B35?style=for-the-badge&logo=code&logoColor=white" alt="Developer Badge"/>
+</p>
 
 ---
 
@@ -22,6 +25,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="./Badges/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/98d52cd8-b614-46b1-947a-86e8c92e87c7">
+    <img src="./Badges/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150" height="150"/>
   </a>
 </p>
 
@@ -43,6 +50,13 @@
   <strong> AWS Certified Solutions Architect Associate (SAA-C03)</strong><br>
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify SAA-C03"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong> AWS Certified Developer Associate (DVA-C02)</strong><br>
+  <a href="https://www.credly.com/earner/earned/badge/98d52cd8-b614-46b1-947a-86e8c92e87c7">
+    <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Verify DVA-C02"/>
   </a>
 </p>
 
