@@ -6,10 +6,6 @@
 
 *Passionate about building secure, scalable solutions in the cloud*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-FF6B35?style=for-the-badge&logo=code&logoColor=white" alt="Developer Badge"/>
-</p>
-
 ---
 
 ##   Certifications
