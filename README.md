@@ -5,7 +5,7 @@
 ### **Developer** | **Cloud Engineer** | Security
 
 *Passionate about building secure, scalable solutions in the cloud*
- 
+
 ---
 
 ##   Certifications
