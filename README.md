@@ -12,15 +12,15 @@
   <a href="https://www.credly.com/earner/earned/badge/c5cb5dae-18e5-4169-b2ee-ae884494ea00">
     <img src="./Badges/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="150" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.credly.com/earner/earned/badge/df837ed4-9cd2-45be-9517-625986c3acb8">
     <img src="./Badges/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.credly.com/earner/earned/badge/a4a798c7-2e79-4889-8d26-b7d63b667ca4">
     <img src="./Badges/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.credly.com/earner/earned/badge/98d52cd8-b614-46b1-947a-86e8c92e87c7">
     <img src="./Badges/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150" height="150"/>
   </a>
