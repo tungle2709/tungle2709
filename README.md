@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi there! 👋 I'm Tung Le
+# Hi there! I'm Tung (Tobie) Le
 
 ### **Developer** | **Cloud Engineer** | Security
-
-*Passionate about building secure, scalable solutions in the cloud*
 
 ---
 
@@ -27,7 +25,6 @@
     <img src="./Badges/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150" height="150"/>
   </a>
 </p>
-
 
 ---
 
